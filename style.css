@@ -1,0 +1,51 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 60px;
+    margin-bottom: -46px;
+}
+h2{
+    font-size: 60px;
+}
+.border-left{
+    border-left: 5px solid #FF775A;
+    border-radius: 4px;
+    padding-left: 25px;
+}
+.section-one{
+    display: flex;
+}
+.Padding-top{
+    padding-top: 100px;
+    margin-left: 45px;
+    
+}
+.hafe-to-hafe{
+    width: 50%;
+    margin-left: 10%;
+}
+.hafe-to-hafe img{
+    width: 68%;
+    margin-left: 115px;
+}
+.hafe-to-hafe p{
+    font-size: 24px;
+    color: #595959;
+    margin-bottom: 45px;
+    margin-top: 45px;
+}
+a{
+    background-image: linear-gradient(#FF655A, #FF8B5A) ;
+    padding: 15px 35px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 20px;
+}
+span{
+    color: #FF775A;
+}
