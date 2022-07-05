@@ -3,11 +3,11 @@ body{
     font-family: 'Inter', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
-h1{
+.heading-one{
     font-size: 60px;
     margin-bottom: -46px;
 }
-h2{
+.heading-two{
     font-size: 60px;
 }
 .border-left{
@@ -116,4 +116,28 @@ span{
 .box-model-three p{
     font-size: 20px;
     padding-top: 55px;
+}
+.Section-three{
+    display: flex;
+    
+    
+}
+.hafe-to-hafe-two{
+    width: 50%;
+}
+.hafe-to-hafe-two img{
+    width: 55%;
+    margin-left: 12%;
+}
+.heding{
+    font-size: 48px;
+}
+.pragraf{
+    font-size: 24px;
+    margin-bottom: 55px;
+}
+.div-top{
+    margin-top: 85px;
+    width: 710px;
+    margin-left: 95px;
 }
