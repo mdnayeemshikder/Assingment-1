@@ -141,3 +141,20 @@ span{
     width: 710px;
     margin-left: 95px;
 }
+.Section-fourth{
+    display: flex;
+}
+.hafe-to-hafe-three{
+    width: 50%;
+    margin-left: 2%;
+}
+.hafe-to-hafe-three img{
+    width: 65%;
+    margin-left: 25%;
+    border-radius: 30px;
+}
+.pragraf-two {
+    font-size: 24px;
+    margin-bottom: 55px;
+    width: 75%;
+}
